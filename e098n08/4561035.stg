@@ -1,0 +1,36 @@
+# osm2roads_AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 12:35:50 2016
+#
+OBJECT_STATIC AMThaiPhuketroads0723.xml 98.38955 8.15437 49.19 0
+OBJECT_STATIC AMThaiPhuketroads0725.xml 98.38955 8.19054 98.79 0
+OBJECT_STATIC AMThaiPhuketroads0825.xml 98.40769 8.19054 11.47 0
+OBJECT_STATIC AMThaiPhuketroads0925.xml 98.42583 8.19054 78.67 0
+OBJECT_STATIC AMThaiPhuketroads1023.xml 98.44397 8.15437 -0.00 0
+OBJECT_STATIC AMThaiPhuketroads1024.xml 98.44397 8.17246 -0.05 0
+OBJECT_STATIC AMThaiPhuketroads1025.xml 98.44397 8.19054 5.96 0
+# END osm2roads_AMThaiPhuket
+# osm2piers_AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 12:38:49 2016
+#
+OBJECT_STATIC piers1024.ac 98.44397 8.17246 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 98.44383 8.18047 0.00 115.285
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.44222 8.18095 0.00 299.681
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 98.44195 8.18109 0.00 297.423
+# END osm2piers_AMThaiPhuket
+# osm2city_AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 13:40:10 2016
+#
+OBJECT_STATIC AMThaiPhuketcity1635.xml 98.38899 8.15517 74.27 0
+OBJECT_STATIC lightmap-switch.xml 98.38899 8.15517 74.27 0
+OBJECT_STATIC AMThaiPhuketcity1636.xml 98.38899 8.17326 211.17 0
+OBJECT_STATIC AMThaiPhuketcity1736.xml 98.40713 8.17326 3.75 0
+OBJECT_STATIC AMThaiPhuketcity1834.xml 98.42527 8.13709 -0.01 0
+OBJECT_STATIC AMThaiPhuketcity1835.xml 98.42527 8.15517 33.04 0
+OBJECT_STATIC AMThaiPhuketcity1836.xml 98.42527 8.17326 29.46 0
+OBJECT_STATIC AMThaiPhuketcity1934.xml 98.44341 8.13709 -0.04 0
+OBJECT_STATIC AMThaiPhuketcity1935.xml 98.44341 8.15517 -0.00 0
+OBJECT_STATIC AMThaiPhuketcity1936.xml 98.44341 8.17326 -0.02 0
+# END osm2city_AMThaiPhuket
