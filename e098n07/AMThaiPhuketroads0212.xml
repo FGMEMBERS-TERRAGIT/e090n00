@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <PropertyList>
-<path>AMThaiPhuket../../../Models/OSM/tex/roads.212.ac</path>
+<path>roads.212.ac</path>
 <effect>
 <!--
     EITHER enable the traffic shader
@@ -9,6 +9,6 @@
         <inherits-from>../../../Models/OSM/tex/roads./inherits-from>
 -->
         <inherits-from>../../../Models/OSM/tex/roads./inherits-from>
-        <object-name>AMThaiPhuket../../../Models/OSM/tex/roads.212</object-name>
+        <object-name>roads.212</object-name>
 </effect>
 </PropertyList>

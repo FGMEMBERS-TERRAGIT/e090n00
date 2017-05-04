@@ -2,15 +2,15 @@
 # do not edit below this line
 # Last Written Wed Jul 27 12:35:50 2016
 #
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.715.xml 98.38955 8.00970 132.95 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.716.xml 98.38955 8.02778 181.96 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.718.xml 98.38955 8.06395 66.91 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.719.xml 98.38955 8.08204 6.13 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.815.xml 98.40769 8.00970 7.99 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.816.xml 98.40769 8.02778 2.58 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.817.xml 98.40769 8.04587 6.98 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.818.xml 98.40769 8.06395 24.77 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.918.xml 98.42583 8.06395 4.40 0
+OBJECT_STATIC roads.715.xml 98.38955 8.00970 132.95 0
+OBJECT_STATIC roads.716.xml 98.38955 8.02778 181.96 0
+OBJECT_STATIC roads.718.xml 98.38955 8.06395 66.91 0
+OBJECT_STATIC roads.719.xml 98.38955 8.08204 6.13 0
+OBJECT_STATIC roads.815.xml 98.40769 8.00970 7.99 0
+OBJECT_STATIC roads.816.xml 98.40769 8.02778 2.58 0
+OBJECT_STATIC roads.817.xml 98.40769 8.04587 6.98 0
+OBJECT_STATIC roads.818.xml 98.40769 8.06395 24.77 0
+OBJECT_STATIC roads.918.xml 98.42583 8.06395 4.40 0
 # END osm2../../../Models/OSM/tex/roads.AMThaiPhuket
 # osm2piers_AMThaiPhuket
 # do not edit below this line

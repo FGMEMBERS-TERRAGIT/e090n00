@@ -2,21 +2,21 @@
 # do not edit below this line
 # Last Written Wed Jul 27 12:35:50 2016
 #
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.708.xml 98.38955 7.88311 9.62 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.709.xml 98.38955 7.90120 23.96 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.710.xml 98.38955 7.91928 16.80 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.711.xml 98.38955 7.93736 71.20 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.712.xml 98.38955 7.95545 6.84 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.713.xml 98.38955 7.97353 9.56 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.714.xml 98.38955 7.99162 14.22 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.808.xml 98.40769 7.88311 11.52 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.809.xml 98.40769 7.90120 83.41 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.810.xml 98.40769 7.91928 7.48 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.811.xml 98.40769 7.93736 0.10 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.908.xml 98.42583 7.88311 10.33 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.909.xml 98.42583 7.90120 0.29 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.008.xml 98.44397 7.88311 -0.00 0
-OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.009.xml 98.44397 7.90120 -0.07 0
+OBJECT_STATIC roads.708.xml 98.38955 7.88311 9.62 0
+OBJECT_STATIC roads.709.xml 98.38955 7.90120 23.96 0
+OBJECT_STATIC roads.710.xml 98.38955 7.91928 16.80 0
+OBJECT_STATIC roads.711.xml 98.38955 7.93736 71.20 0
+OBJECT_STATIC roads.712.xml 98.38955 7.95545 6.84 0
+OBJECT_STATIC roads.713.xml 98.38955 7.97353 9.56 0
+OBJECT_STATIC roads.714.xml 98.38955 7.99162 14.22 0
+OBJECT_STATIC roads.808.xml 98.40769 7.88311 11.52 0
+OBJECT_STATIC roads.809.xml 98.40769 7.90120 83.41 0
+OBJECT_STATIC roads.810.xml 98.40769 7.91928 7.48 0
+OBJECT_STATIC roads.811.xml 98.40769 7.93736 0.10 0
+OBJECT_STATIC roads.908.xml 98.42583 7.88311 10.33 0
+OBJECT_STATIC roads.909.xml 98.42583 7.90120 0.29 0
+OBJECT_STATIC roads.008.xml 98.44397 7.88311 -0.00 0
+OBJECT_STATIC roads.009.xml 98.44397 7.90120 -0.07 0
 # END osm2../../../Models/OSM/tex/roads.AMThaiPhuket
 # osm2piers_AMThaiPhuket
 # do not edit below this line
