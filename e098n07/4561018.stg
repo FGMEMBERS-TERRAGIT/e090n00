@@ -1,0 +1,77 @@
+# osm2../../../Models/OSM/tex/roads.AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 12:35:50 2016
+#
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.011.xml 98.26257 7.93736 116.50 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.108.xml 98.28071 7.88311 -0.00 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.110.xml 98.28071 7.91928 17.41 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.111.xml 98.28071 7.93736 101.06 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.112.xml 98.28071 7.95545 -0.00 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.113.xml 98.28071 7.97353 47.22 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.114.xml 98.28071 7.99162 -0.06 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.208.xml 98.29885 7.88311 8.97 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.209.xml 98.29885 7.90120 17.38 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.210.xml 98.29885 7.91928 184.31 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.211.xml 98.29885 7.93736 180.94 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.212.xml 98.29885 7.95545 254.64 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.213.xml 98.29885 7.97353 142.63 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.214.xml 98.29885 7.99162 7.25 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.309.xml 98.31699 7.90120 147.69 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.311.xml 98.31699 7.93736 330.70 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.314.xml 98.31699 7.99162 21.55 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.409.xml 98.33513 7.90120 28.87 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.410.xml 98.33513 7.91928 32.47 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.411.xml 98.33513 7.93736 65.71 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.413.xml 98.33513 7.97353 35.26 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.414.xml 98.33513 7.99162 26.90 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.508.xml 98.35327 7.88311 134.20 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.509.xml 98.35327 7.90120 22.68 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.510.xml 98.35327 7.91928 51.33 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.513.xml 98.35327 7.97353 68.95 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.514.xml 98.35327 7.99162 14.64 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.608.xml 98.37141 7.88311 11.08 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.609.xml 98.37141 7.90120 59.32 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.610.xml 98.37141 7.91928 34.68 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.611.xml 98.37141 7.93736 338.86 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.612.xml 98.37141 7.95545 14.55 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.613.xml 98.37141 7.97353 11.57 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.614.xml 98.37141 7.99162 24.13 0
+# END osm2../../../Models/OSM/tex/roads.AMThaiPhuket
+# osm2piers_AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 12:38:49 2016
+#
+OBJECT_STATIC piers0108.ac 98.28071 7.88311 0.00 0
+OBJECT_STATIC piers0110.ac 98.28071 7.91928 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.28099 7.88889 0.00 -145.158
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.27475 7.92399 0.00 27.2439
+# END osm2piers_AMThaiPhuket
+# osm2city_AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 13:40:10 2016
+#
+OBJECT_STATIC AMThaiPhuketcity1020.xml 98.28015 7.88391 -0.00 0
+OBJECT_STATIC lightmap-switch.xml 98.28015 7.88391 -0.00 0
+OBJECT_STATIC AMThaiPhuketcity1021.xml 98.28015 7.90200 -0.13 0
+OBJECT_STATIC AMThaiPhuketcity1024.xml 98.28015 7.95625 -0.01 0
+OBJECT_STATIC AMThaiPhuketcity1025.xml 98.28015 7.97433 19.46 0
+OBJECT_STATIC AMThaiPhuketcity1120.xml 98.29829 7.88391 6.40 0
+OBJECT_STATIC AMThaiPhuketcity1121.xml 98.29829 7.90200 14.25 0
+OBJECT_STATIC AMThaiPhuketcity1122.xml 98.29829 7.92008 161.78 0
+OBJECT_STATIC AMThaiPhuketcity1124.xml 98.29829 7.95625 301.76 0
+OBJECT_STATIC AMThaiPhuketcity1126.xml 98.29829 7.99242 6.51 0
+OBJECT_STATIC AMThaiPhuketcity1221.xml 98.31643 7.90200 109.12 0
+OBJECT_STATIC AMThaiPhuketcity1321.xml 98.33457 7.90200 29.89 0
+OBJECT_STATIC AMThaiPhuketcity1326.xml 98.33457 7.99242 31.32 0
+OBJECT_STATIC AMThaiPhuketcity1420.xml 98.35271 7.88391 154.51 0
+OBJECT_STATIC AMThaiPhuketcity1421.xml 98.35271 7.90200 23.25 0
+OBJECT_STATIC AMThaiPhuketcity1422.xml 98.35271 7.92008 38.37 0
+OBJECT_STATIC AMThaiPhuketcity1425.xml 98.35271 7.97433 73.64 0
+OBJECT_STATIC AMThaiPhuketcity1426.xml 98.35271 7.99242 15.32 0
+OBJECT_STATIC AMThaiPhuketcity1520.xml 98.37085 7.88391 11.61 0
+OBJECT_STATIC AMThaiPhuketcity1521.xml 98.37085 7.90200 27.54 0
+OBJECT_STATIC AMThaiPhuketcity1522.xml 98.37085 7.92008 37.84 0
+OBJECT_STATIC AMThaiPhuketcity1524.xml 98.37085 7.95625 14.76 0
+OBJECT_STATIC AMThaiPhuketcity1525.xml 98.37085 7.97433 12.84 0
+OBJECT_STATIC AMThaiPhuketcity1526.xml 98.37085 7.99242 34.26 0
+# END osm2city_AMThaiPhuket

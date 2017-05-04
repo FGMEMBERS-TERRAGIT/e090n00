@@ -1,0 +1,130 @@
+# osm2../../../Models/OSM/tex/roads.AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 12:35:50 2016
+#
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.202.xml 98.29885 7.77461 -0.01 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.203.xml 98.29885 7.79269 151.31 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.204.xml 98.29885 7.81078 51.43 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.205.xml 98.29885 7.82886 38.04 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.206.xml 98.29885 7.84695 16.35 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.302.xml 98.31699 7.77461 36.88 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.303.xml 98.31699 7.79269 26.33 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.304.xml 98.31699 7.81078 254.69 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.305.xml 98.31699 7.82886 250.76 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.402.xml 98.33513 7.77461 0.39 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.403.xml 98.33513 7.79269 7.24 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.404.xml 98.33513 7.81078 17.38 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.405.xml 98.33513 7.82886 24.72 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.406.xml 98.33513 7.84695 15.35 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.407.xml 98.33513 7.86503 32.30 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.505.xml 98.35327 7.82886 2.69 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.506.xml 98.35327 7.84695 11.03 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.507.xml 98.35327 7.86503 19.88 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.606.xml 98.37141 7.84695 6.64 0
+OBJECT_STATIC AMThaiPhuket../../../Models/OSM/tex/roads.607.xml 98.37141 7.86503 10.78 0
+# END osm2../../../Models/OSM/tex/roads.AMThaiPhuket
+# osm2piers_AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 12:38:49 2016
+#
+OBJECT_STATIC piers0302.ac 98.31699 7.77461 0.00 0
+OBJECT_STATIC piers0402.ac 98.33513 7.77461 0.00 0
+OBJECT_STATIC piers0504.ac 98.35327 7.81078 0.00 0
+OBJECT_STATIC piers0505.ac 98.35327 7.82886 0.00 0
+OBJECT_STATIC piers0603.ac 98.37141 7.79269 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 98.34721 7.82034 0.00 -56.3451
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.34972 7.81973 0.00 43.815
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.35003 7.81966 0.00 103.815
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 98.35035 7.81958 0.00 103.834
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.35072 7.81949 0.00 103.258
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.35096 7.81903 0.00 189.226
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.35112 7.81971 0.00 -142.89
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.32785 7.77439 0.00 -9.97655
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.35051 7.81970 0.00 193.522
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.30875 7.77811 0.00 73.1532
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.30877 7.77801 0.00 161.437
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 98.34899 7.81928 0.00 195.197
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34931 7.81920 0.00 194.577
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.34928 7.81871 0.00 132.33
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.36876 7.79603 0.00 6.41446
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.34940 7.81918 0.00 132.39
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.34915 7.81874 0.00 132.918
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34910 7.81925 0.00 192.081
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.34901 7.81888 0.00 136.387
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 98.34920 7.81922 0.00 192.309
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.34925 7.81883 0.00 -47.9203
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.34911 7.81886 0.00 132.3
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34921 7.81884 0.00 131.813
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34839 7.82697 0.00 131.802
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 98.34921 7.81919 0.00 283.57
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.34888 7.81886 0.00 193.13
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.34903 7.81876 0.00 132.487
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.35024 7.81916 0.00 41.9882
+OBJECT_SHARED Models/Maritime/Civilian/wide-red-yacht.ac 98.35037 7.81881 0.00 173.484
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 98.34964 7.81899 0.00 103.631
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.34979 7.81868 0.00 192.66
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.36878 7.79632 0.00 34.6202
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.36886 7.79631 0.00 34.6842
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.34514 7.82020 0.00 -66.4007
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.34629 7.81992 0.00 -66.3038
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.35029 7.81933 0.00 12.1408
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 98.34990 7.81908 0.00 103.113
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34990 7.81908 0.00 103.113
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.34967 7.81954 0.00 193.928
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.34967 7.81954 0.00 193.928
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 98.35004 7.81971 0.00 283.815
+OBJECT_SHARED Models/Maritime/Civilian/wide-clear-yacht.ac 98.35004 7.81971 0.00 283.815
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 98.35029 7.81933 0.00 12.1408
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34962 7.81955 0.00 194.806
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34955 7.81927 0.00 194.097
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.34950 7.81908 0.00 132.34
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.34946 7.81890 0.00 194.027
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.34943 7.81877 0.00 134.027
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34940 7.81866 0.00 134.011
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.34962 7.81934 0.00 224.373
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.34950 7.81937 0.00 222.797
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 98.34937 7.81946 0.00 311.175
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 98.34900 7.81960 0.00 284.047
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.34858 7.81905 0.00 23.3982
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.34848 7.81832 0.00 151.664
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.34931 7.81802 0.00 -65.6743
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.35025 7.81802 0.00 43.2929
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34932 7.81873 0.00 222.751
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34920 7.81875 0.00 222.726
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34903 7.81879 0.00 222.733
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34890 7.81882 0.00 222.727
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.33796 7.77891 0.00 112.521
+OBJECT_SHARED Models/Maritime/Civilian/wide-red-yacht.ac 98.33842 7.78194 0.00 62.198
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 98.33833 7.78200 0.00 62.6959
+OBJECT_SHARED Models/Maritime/Civilian/wide-red-yacht.ac 98.33859 7.77974 0.00 80.5865
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.34695 7.81968 0.00 134.116
+# END osm2piers_AMThaiPhuket
+# osm2city_AMThaiPhuket
+# do not edit below this line
+# Last Written Wed Jul 27 13:40:10 2016
+#
+OBJECT_STATIC AMThaiPhuketcity1017.xml 98.28015 7.82966 -0.48 0
+OBJECT_STATIC lightmap-switch.xml 98.28015 7.82966 -0.48 0
+OBJECT_STATIC AMThaiPhuketcity1019.xml 98.28015 7.86583 40.21 0
+OBJECT_STATIC AMThaiPhuketcity1116.xml 98.29829 7.81158 41.79 0
+OBJECT_STATIC AMThaiPhuketcity1117.xml 98.29829 7.82966 39.60 0
+OBJECT_STATIC AMThaiPhuketcity1118.xml 98.29829 7.84775 15.86 0
+OBJECT_STATIC AMThaiPhuketcity1119.xml 98.29829 7.86583 166.11 0
+OBJECT_STATIC AMThaiPhuketcity1214.xml 98.31643 7.77541 40.39 0
+OBJECT_STATIC AMThaiPhuketcity1216.xml 98.31643 7.81158 234.90 0
+OBJECT_STATIC AMThaiPhuketcity1217.xml 98.31643 7.82966 256.15 0
+OBJECT_STATIC AMThaiPhuketcity1219.xml 98.31643 7.86583 133.23 0
+OBJECT_STATIC AMThaiPhuketcity1314.xml 98.33457 7.77541 17.95 0
+OBJECT_STATIC AMThaiPhuketcity1315.xml 98.33457 7.79349 11.60 0
+OBJECT_STATIC AMThaiPhuketcity1316.xml 98.33457 7.81158 19.00 0
+OBJECT_STATIC AMThaiPhuketcity1317.xml 98.33457 7.82966 25.57 0
+OBJECT_STATIC AMThaiPhuketcity1318.xml 98.33457 7.84775 17.21 0
+OBJECT_STATIC AMThaiPhuketcity1319.xml 98.33457 7.86583 33.10 0
+OBJECT_STATIC AMThaiPhuketcity1416.xml 98.35271 7.81158 -0.01 0
+OBJECT_STATIC AMThaiPhuketcity1417.xml 98.35271 7.82966 3.97 0
+OBJECT_STATIC AMThaiPhuketcity1418.xml 98.35271 7.84775 12.59 0
+OBJECT_STATIC AMThaiPhuketcity1419.xml 98.35271 7.86583 21.16 0
+OBJECT_STATIC AMThaiPhuketcity1515.xml 98.37085 7.79349 -0.00 0
+OBJECT_STATIC AMThaiPhuketcity1518.xml 98.37085 7.84775 6.32 0
+OBJECT_STATIC AMThaiPhuketcity1519.xml 98.37085 7.86583 7.88 0
+# END osm2city_AMThaiPhuket
