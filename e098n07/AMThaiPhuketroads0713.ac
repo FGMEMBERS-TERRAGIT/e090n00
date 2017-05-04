@@ -3,7 +3,7 @@ MATERIAL "" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 0.5 0.5 0.5 shi 64 trans 0
 OBJECT world
 kids 1
 OBJECT poly
-name "AMThaiPhuket../../../Models/OSM/tex/roads.713"
+name "roads.713"
 texture "../../../Models/OSM/tex/roads.png"
 numvert 404
 485.087 -0.504 168.979
