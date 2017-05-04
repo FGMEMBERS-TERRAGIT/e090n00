@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <PropertyList>
-<path>AMThaiPhuketroads0719.ac</path>
+<path>AMThaiPhuket../../../Models/OSM/tex/roads.719.ac</path>
 <effect>
 <!--
     EITHER enable the traffic shader
         <inherits-from>Effects/road-high</inherits-from>
     OR the lightmap shader
-        <inherits-from>roads</inherits-from>
+        <inherits-from>../../../Models/OSM/tex/roads./inherits-from>
 -->
-        <inherits-from>roads</inherits-from>
-        <object-name>AMThaiPhuketroads0719</object-name>
+        <inherits-from>../../../Models/OSM/tex/roads./inherits-from>
+        <object-name>AMThaiPhuket../../../Models/OSM/tex/roads.719</object-name>
 </effect>
 </PropertyList>

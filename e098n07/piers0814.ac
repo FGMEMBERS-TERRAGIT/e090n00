@@ -4,7 +4,7 @@ OBJECT world
 kids 1
 OBJECT poly
 name "piers"
-texture "Textures/Terrain/asphalt.png"
+texture "../../../Models/OSM/tex/roads.png"
 numvert 20
 253.033 11.347 -848.096
 168.759 11.347 -860.125

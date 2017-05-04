@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PropertyList>
-        <name>roadsLM</name>
+        <name>../../../Models/OSM/tex/roads.M</name>
         <inherits-from>/Effects/model-combined-deferred</inherits-from>
         <parameters>
                 <!-- Light Map -->
@@ -8,7 +8,7 @@
                 <lightmap-multi type="int">0</lightmap-multi>
                 <lightmap-color type="vec3d" n="0"> 0.941 0.682 0.086 </lightmap-color>
                 <texture n="3">
-                    <image>tex/roads_LM.png</image>
+                    <image>../../../Models/OSM/tex/roads.LM.png</image>
                     <wrap-s>repeat</wrap-s>
                     <wrap-t>repeat</wrap-t>
                 </texture>
