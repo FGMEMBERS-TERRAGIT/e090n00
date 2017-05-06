@@ -37,10 +37,10 @@ OBJECT_STATIC roads.621.xml 98.37141 8.11820 39.33 0
 # Last Written Wed Jul 27 12:38:49 2016
 #
 OBJECT_STATIC piers0621.ac 98.37141 8.11820 0.00 0
-OBJECT_SHARED Models/Maritime/Civilian/wide-black-yacht.ac 98.37109 8.11993 0.00 27.3606
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 98.37109 8.11993 0.00 27.3606
 OBJECT_SHARED Models/Maritime/Civilian/LargeTrawler.xml 98.37169 8.12110 0.00 -143.126
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.37310 8.11939 0.00 -132.293
-OBJECT_SHARED Models/Maritime/Civilian/wide-clear-yacht.ac 98.37205 8.12171 0.00 119.997
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 98.37205 8.12171 0.00 119.997
 # END osm2piers_AMThaiPhuket
 # osm2city_AMThaiPhuket
 # do not edit below this line

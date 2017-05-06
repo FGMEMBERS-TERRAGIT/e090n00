@@ -26,8 +26,8 @@ OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.40574 7.80126 0.0
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.40572 7.80144 0.00 293.292
 OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.40611 7.82953 0.00 202.96
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 98.40602 7.82933 0.00 202.973
-OBJECT_SHARED Models/Maritime/Civilian/wide-clear-yacht.ac 98.40389 7.82364 0.00 249.348
-OBJECT_SHARED Models/Maritime/Civilian/wide-black-yacht.ac 98.40584 7.82959 0.00 118.837
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 98.40389 7.82364 0.00 249.348
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 98.40584 7.82959 0.00 118.837
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.41420 7.83096 0.00 123.81
 OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 98.40413 7.82318 0.00 78.9409
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.40566 7.82801 0.00 -45.8566

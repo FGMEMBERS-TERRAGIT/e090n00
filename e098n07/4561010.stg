@@ -60,7 +60,7 @@ OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 98.34921 7.81919 
 OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.34888 7.81886 0.00 193.13
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.34903 7.81876 0.00 132.487
 OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 98.35024 7.81916 0.00 41.9882
-OBJECT_SHARED Models/Maritime/Civilian/wide-red-yacht.ac 98.35037 7.81881 0.00 173.484
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 98.35037 7.81881 0.00 173.484
 OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac 98.34964 7.81899 0.00 103.631
 OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.34979 7.81868 0.00 192.66
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.36878 7.79632 0.00 34.6202
@@ -73,7 +73,7 @@ OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34990 7.81908 0.0
 OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 98.34967 7.81954 0.00 193.928
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.34967 7.81954 0.00 193.928
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 98.35004 7.81971 0.00 283.815
-OBJECT_SHARED Models/Maritime/Civilian/wide-clear-yacht.ac 98.35004 7.81971 0.00 283.815
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 98.35004 7.81971 0.00 283.815
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 98.35029 7.81933 0.00 12.1408
 OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34962 7.81955 0.00 194.806
 OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 98.34955 7.81927 0.00 194.097
@@ -94,9 +94,9 @@ OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34920 7.81875 0.00 222.
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34903 7.81879 0.00 222.733
 OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 98.34890 7.81882 0.00 222.727
 OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 98.33796 7.77891 0.00 112.521
-OBJECT_SHARED Models/Maritime/Civilian/wide-red-yacht.ac 98.33842 7.78194 0.00 62.198
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 98.33842 7.78194 0.00 62.198
 OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 98.33833 7.78200 0.00 62.6959
-OBJECT_SHARED Models/Maritime/Civilian/wide-red-yacht.ac 98.33859 7.77974 0.00 80.5865
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 98.33859 7.77974 0.00 80.5865
 OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 98.34695 7.81968 0.00 134.116
 # END osm2piers_AMThaiPhuket
 # osm2city_AMThaiPhuket
