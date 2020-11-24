@@ -86,3 +86,9 @@ OBJECT_STATIC AMThaiPhuketcity1627.xml 98.38899 8.01050 157.01 0
 OBJECT_STATIC lightmap-switch.xml 98.38899 8.01050 157.01 0
 OBJECT_STATIC AMThaiPhuketcity1728.xml 98.40713 8.02859 3.05 0
 # END osm2city_AMThaiPhuket
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 98.40472 8.01794 0.00 54
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac 98.40404 8.01680 6.01 329.64
+# END dsf2stg

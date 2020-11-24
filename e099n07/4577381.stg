@@ -1,3 +1,9 @@
 OBJECT_SHARED Models/Communications/vordme_1.xml 99.626019 7.508936 17.74 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 99.628658 7.510117 18.4 180
 OBJECT_SHARED Models/Airport/localizer.xml 99.628658 7.510672 16.8 170.86
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 99.62852 7.51137 17.30 190.62
+OBJECT_SHARED Models/lib/schranke.ac 99.62808 7.51276 16.74 274.4
+# END dsf2stg
